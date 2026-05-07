@@ -1,0 +1,6 @@
+link_name,link_type,distance_m,tx_height_m,rx_height_m,max_obstacle_distance_m,los_clearance_m,fresnel_at_obstacle_m,fresnel_mid_m,fresnel_intrusion_m
+PtP nLOS: Головний корпус ХАІ - гуртожиток №10,nLOS,719.5,15.0,3.0,575.6,0.4,2.51,3.13,2.11
+PtP LOS: Головний корпус ХАІ - гуртожиток №10,LOS,719.5,15.0,12.0,431.7,6.2,3.07,3.13,0.0
+PtMP AP1 -> Station1 (гуртожиток №10),LOS,719.5,18.0,12.0,431.7,7.4,3.07,3.13,0.0
+PtMP AP1 -> Station2 (гуртожиток №11),LOS,733.7,18.0,12.0,568.6,8.38,2.64,3.16,0.0
+PtMP AP1 -> Station3 (гуртожиток №12),LOS,774.9,18.0,12.0,523.1,7.88,3.05,3.25,0.0
